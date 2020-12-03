@@ -6,7 +6,7 @@ class Pessoa:
         self.idade = idade
         self.peso = peso
         self.altura = altura
-
+        
     def Envelhecer(self, nova_idade):
 
         cont = self.idade
