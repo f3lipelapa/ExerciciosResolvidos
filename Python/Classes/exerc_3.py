@@ -4,7 +4,7 @@ class Retangulo:
 
         self.comprimento = comp
         self.largura = larg
-
+        
     def MudarMedidas(self, comp2, larg2):
 
         self.comprimento = comp2
