@@ -1,5 +1,5 @@
 class ContaCorrente:
-
+    
     def __init__(self, num_conta, nome_corrent, saldo=0):
 
         self.num_conta = num_conta
