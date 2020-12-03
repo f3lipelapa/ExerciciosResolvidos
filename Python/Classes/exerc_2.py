@@ -16,3 +16,4 @@ class Quadrado:
 
         area = self.lado * self.lado
         print(f'A área do quadrado é {area}')
+        
