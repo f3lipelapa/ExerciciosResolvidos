@@ -20,3 +20,4 @@ for IP_val in lista_IP_val:
 print('\nEndereços inválidos:')
 for IP_inval in lista_IP_inval:
     print(IP_inval, end='')
+    
