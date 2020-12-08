@@ -24,6 +24,6 @@ class ContaCorrente:
 
         print(
             f'Número da conta: {self.num_conta}',
-            f'\nNome do correntist: {self.nome_corrent}',
+            f'\nNome do correntista: {self.nome_corrent}',
             f'\nSaldo: {self.valor_tot}'
         )
